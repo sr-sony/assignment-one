@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+}

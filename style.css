@@ -7,7 +7,31 @@ body{
 .header{
     background-image: url(images/donation9.jpg);
     background-repeat: no-repeat;
-    color: #fff;
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
     width: 100%;
+}
+
+.header-heading{
+    font-size: 36px;
+}
+
+.header-paragraph{
+    font-size: 18px;
+}
+
+.header-banner{
+    color: #fff;
     text-align: center;
+    padding: 50px;
+}
+
+.header-btn{
+    text-decoration: none;
+    color: #fff;
+    border: 3px solid #FF5959;
+    background-color: #FF5959;
+    border-radius: 10px;
+    padding: 4px 6px;
 }

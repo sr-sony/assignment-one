@@ -91,3 +91,23 @@ body{
     /* border-bottom: 2px solid grey; */
 }
 
+.footer-footer{
+    background-color: black;
+    height: 20vh;
+}
+
+.footer-container{
+    color: white;
+    text-align: center;
+}
+
+.footer-header{
+    font-family: pacifico;
+    font-size: 16px;
+    color:#FF5959;
+    padding-top: 20px;
+}
+
+.footer-para{
+    font-size: 10px;
+}

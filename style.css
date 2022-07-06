@@ -120,7 +120,43 @@ body{
     border-radius: 5px;
 }
 
+.update{
+    padding: 120px 250px;
+}
 
+.update-div{
+    /* width: 100%; */
+    /* padding: 150px; */
+}
+
+.update-text{
+    padding-bottom: 20px;
+}
+
+.update-bg{
+    background-color:#FFF4D6;
+    text-align: center;
+    padding:40px;
+}
+
+.update-email{
+    border: none;
+    background-color: #D9D9D9;
+    border-radius: 5px 0 0 5px;
+    color: #AA9F9F;
+    padding: 10px;
+    margin-right: 0;
+}
+
+.update-btn{
+    padding: 10px 30px;
+    border-radius: 0 5px 5px 0;
+    border: none;
+    background-color: #FF5959;
+    color: white;
+    margin-left: -5px;
+    
+}
 
 .footer-footer{
     background-color: black;

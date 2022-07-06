@@ -9,12 +9,22 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 80vh;
+    height: 100vh;
     width: 100%;
 }
 
 .header-heading{
-    font-size: 36px;
+    font-size: 42px;
+    font-weight: 700;
+}
+.heading-one{
+    padding-top: 0px;
+    margin-top: 0;
+}
+
+.heading-two{
+    padding-top: 0px;
+    margin-top: 0;
 }
 
 .header-paragraph{
@@ -24,7 +34,7 @@ body{
 .header-banner{
     color: #fff;
     text-align: center;
-    padding: 50px;
+    padding: 120px 200px;
 }
 
 .header-btn{
@@ -34,4 +44,33 @@ body{
     background-color: #FF5959;
     border-radius: 5px;
     padding: 6px 10px;
+}
+
+.middle{
+    height: 100vh;
+    width: 100%;
+}
+
+.middle-div{
+    text-align: center;
+    padding: 120px 200px;
+}
+
+.middle-amount-tab{
+    padding: 30px;
+}
+
+
+.middle-amount-tab-box{
+    text-decoration: none;
+    color: grey;
+    font-size: 22px;
+    font-weight: 700;
+    padding: 25px 15px;
+}
+
+.box-border{
+    border: 2px solid  #ff5959c5;
+    background-color: #ff595923;
+    border-radius: 3px;
 }

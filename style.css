@@ -9,7 +9,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    /* height: 100vh; */
     width: 100%;
 }
 
@@ -47,13 +47,13 @@ body{
 }
 
 .middle{
-    height: 100vh;
+    /* height: 100vh; */
     width: 100%;
 }
 
 .middle-div{
     text-align: center;
-    padding: 120px 300px;
+    padding: 80px 300px;
 }
 
 .middle-header{
@@ -80,16 +80,47 @@ body{
     border-radius: 3px;
 }
 
-.middle-form{
-
-}
-
 .middle-form-input{
     border: none;
     text-align: center;
     /* padding: 30px; */
     /* border-bottom: 2px solid grey; */
 }
+
+.donate-plan{
+    padding: 70px 150px;
+}
+.donate-plan-text{
+    text-align: center;
+    padding: 0 200px;
+}
+
+.donate-card{
+    display: flex;
+    padding: 20px 0;
+    
+    /* background-color:#FF5959; */
+}
+
+.donate-card-1{
+    background-color: #EDF5F6;
+}
+
+.donate-card-2{
+    background-color: #FFEEEE;
+}
+
+.donate-card-3{
+    background-color: #FFF4D6;
+}
+
+.card{
+    padding: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+
 
 .footer-footer{
     background-color: black;

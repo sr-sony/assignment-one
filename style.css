@@ -34,7 +34,7 @@ body{
 .header-banner{
     color: #fff;
     text-align: center;
-    padding: 120px 200px;
+    padding: 120px 300px;
 }
 
 .header-btn{
@@ -53,7 +53,11 @@ body{
 
 .middle-div{
     text-align: center;
-    padding: 120px 200px;
+    padding: 120px 300px;
+}
+
+.middle-header{
+    font-size: 28px;
 }
 
 .middle-amount-tab{
@@ -62,10 +66,11 @@ body{
 
 
 .middle-amount-tab-box{
+    font-family: roboto;
     text-decoration: none;
     color: grey;
     font-size: 22px;
-    font-weight: 700;
+    font-weight: 500;
     padding: 25px 15px;
 }
 
@@ -74,3 +79,15 @@ body{
     background-color: #ff595923;
     border-radius: 3px;
 }
+
+.middle-form{
+
+}
+
+.middle-form-input{
+    border: none;
+    text-align: center;
+    /* padding: 30px; */
+    /* border-bottom: 2px solid grey; */
+}
+
